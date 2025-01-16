@@ -64,4 +64,5 @@ public class NewClass{
     }
 }  
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/d7bfa58b-1d9a-48d4-a690-d08df159558e)
 
